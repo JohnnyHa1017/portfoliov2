@@ -1,2 +1,5 @@
 LICENSE.txt
 README.txt
+.env
+.env.pub
+
