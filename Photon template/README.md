@@ -3,7 +3,6 @@
 
 
 
-
 #### Base Template Photon Created by:
 > AJ
 > aj@lkn.io | @ajlkn
